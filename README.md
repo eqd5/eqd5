@@ -13,7 +13,7 @@
 ![DiscordJS](https://img.shields.io/badge/Discord.js-5865F2?style=flat&logo=discord&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS5](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![CSS5](https://img.shields.io/badge/CSS5-1572B6?style=flat&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-6E47FF?style=flat&logo=openai&logoColor=white)
 ![Cursor IDE](https://img.shields.io/badge/Cursor_IDE-1F2937?style=flat&logo=visual-studio-code&logoColor=00FFFF)
