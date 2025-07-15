@@ -1,4 +1,5 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/1363541945615519885?bg=151515&borderRadius=10px&theme=dark)](https://discord.com/users/1363541945615519885)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1363541945615519885?bg=2C2F33&borderRadius=15px&theme=dark&animated=true)](https://discord.com/users/1363541945615519885)
+
 
 
 
