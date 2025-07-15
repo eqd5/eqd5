@@ -30,9 +30,9 @@ module.exports = Eqd;
 ---
 
 ### 🔭 Currently Working On
-- AutomateSYSTEM
-- DiscordJS projects
-- Python automation scripts
+- AutomateSYSTEM with Selenium
+- Bot For DiscordJS 
+- Python
 
 ---
 
