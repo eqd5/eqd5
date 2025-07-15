@@ -29,9 +29,9 @@ module.exports = Eqd;
 
 ---
 
-### 🔭 Currently Working On
-- AutomateSYSTEM with Selenium
-- Bot For DiscordJS 
+### 🔭 Currently Working On Now
+- Selenium
+- Discord.JS
 - Python
 
 ---
