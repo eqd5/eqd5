@@ -12,6 +12,7 @@ class Eqd {
     this.job = "developer";
     this.age = "18";
     this.discordTag = "eqd5";
+    this.discordID = "1363541945615519885";
   }
 }
 
