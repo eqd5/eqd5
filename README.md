@@ -8,10 +8,8 @@ class Eqd {
   constructor(options) {
     this.name = "Kenan";
     this.sex = "man";
-    this.length = "1.65";
     this.type = "human";
     this.job = "developer";
-    this.weight = "unknown";
     this.age = "18";
     this.discordTag = "eqd5";
   }
@@ -21,7 +19,7 @@ module.exports = Eqd;
 ```
 
 <h1 align="center">Hi 👋, I'm Eqd5</h1>
-<h3 align="center">FrontEnd & DiscordJS Developer | Automation Enthusiast</h3>
+<h3 align="center">FrontEnd & DiscordJS Developer | Automation System</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=eqd5&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
