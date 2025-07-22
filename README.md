@@ -22,9 +22,11 @@ module.exports = Eqd;
 <h1 align="center">Hi 👋, I'm Eqd5</h1>
 <h3 align="center">FrontEnd & DiscordJS Developer | Automation System</h3>
 
+```md
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eqd5&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://count.getloli.com/@eqd5?name=eqd5&theme=booru-lewd&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" width="50%" />
 </p>
+```
 
 ---
 
