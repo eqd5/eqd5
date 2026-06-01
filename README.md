@@ -2,7 +2,7 @@
 
 ## Ben Kimim
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=ffffff&center=true&width=435&lines=azap;bir;marka)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=ffffff&center=false&width=435&lines=azap;bir;marka)
 
 ```js
 class Azap {
