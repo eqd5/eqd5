@@ -1,4 +1,4 @@
-[![Discord Activity](https://api.lanyard.rest/v1/users/1479564510862901248?bg=2C2F33&borderRadius=15px&theme=dark&animated=true)](https://discord.com/users/917096501900095548)
+[![Discord Presence](https://api.lanyard.rest/v1/users/1479564510862901248?bg=2C2F33&borderRadius=15px&theme=dark&animated=true)](https://discord.com/users/917096501900095548)
 
 
 ## Ben Kimim
