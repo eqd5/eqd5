@@ -1,8 +1,6 @@
 <div align="center">
 
-<a href="https://discord.com/users/1479564510862901248">
-  <img src="https://lanyard.cnrad.dev/api/1479564510862901248?idleMessage=%C5%9Euan%20Me%C5%9Fgul%C3%BCm%20%2F%20I'm%20Busy&borderRadius=10px&bg=2C2F33&theme=dark" />
-</a>
+https://lanyard.kyrie25.dev/api/1479564510862901248?borderRadius=15px&clanbg=4
 
 <br><br>
 
