@@ -4,8 +4,6 @@
 
 <br><br>
 
-<h2>Who Am I?</h2>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=azap+bir+marka;ve+hepinizden+daha+iyi" />
 
 <br><br>
