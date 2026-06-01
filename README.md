@@ -91,11 +91,5 @@ module.exports = Azap;
 
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eqd5&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-
-
 
 
