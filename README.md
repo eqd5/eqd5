@@ -2,6 +2,8 @@
 
 ## Ben Kimim
 
+https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=ffffff&center=true&width=435&lines=Azap;Bir;Marka
+
 ```js
 class Azap {
   constructor(options) {
