@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/917096501900095548?bg=2C2F33&borderRadius=15px&theme=dark&animated=true)](https://discord.com/users/917096501900095548)
+[![Discord Activity](https://api.lanyard.rest/v1/users/1479564510862901248?bg=2C2F33&borderRadius=15px&theme=dark&animated=true)](https://discord.com/users/917096501900095548)
 
 
 ## Ben Kimim
@@ -6,21 +6,21 @@
 ```js
 class Eqd {
   constructor(options) {
-    this.name = "Kenan";
+    this.name = "Azad";
     this.sex = "man";
     this.type = "human";
     this.job = "developer";
-    this.age = "18";
-    this.discordTag = "eqd5";
-    this.discordID = "1363541945615519885";
+    this.age = "19";
+    this.discordTag = "azapitgod";
+    this.discordID = "1479564510862901248";
   }
 }
 
-module.exports = Eqd;
+module.exports = Azap;
 ```
 
-<h1 align="center">Hi 👋, I'm Eqd5</h1>
-<h3 align="center">FrontEnd & DiscordJS Developer | Automation System</h3>
+<h1 align="center">Hi 👋, I'm Azap</h1>
+<h3 align="center">Generally Developer, Vencord/Equicord Plugins Creator and Aİ/APİ Usage.</h3>
 
 
 <p align="center">
@@ -31,9 +31,15 @@ module.exports = Eqd;
 ---
 
 ### 🔭 Currently Working On Now
-- Selenium
-- Discord.JS
 - Python
+- Node.js
+- Typescript
+- Javascript
+- Html
+- Css
+- Tailwind
+- React
+- Aİ
 
 ---
 
