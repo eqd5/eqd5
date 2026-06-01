@@ -47,7 +47,7 @@ module.exports = Azap;
 ### 📫 Connect with me
 
 <p align="center">
-  <a href="https://discord.com/users/1363541945615519885" target="_blank" rel="noopener noreferrer">
+  <a href="https://discord.com/users/1479564510862901248" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="40" height="40" />
   </a>
 </p>
