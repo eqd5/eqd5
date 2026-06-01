@@ -1,6 +1,6 @@
 <div align="center">
 
-https://lanyard.kyrie25.dev/api/1479564510862901248?borderRadius=15px&clanbg=4
+<a href="https://discord.com/users/1479564510862901248"><img src="https://lanyard.kyrie25.dev/api/1479564510862901248?borderRadius=15px&clanbg=4" /></a>
 
 <br><br>
 
